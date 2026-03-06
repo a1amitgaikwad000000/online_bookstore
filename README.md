@@ -3,8 +3,6 @@
 This project is a **SQL-based analysis** of an Online Bookstore database.  
 It includes queries of increasing complexity to explore **books, customers, orders, sales, and revenue**.  
 
-Dataset Link:-
-https://github.com/Vishal132003/Online-Bookstore-Sales-Analysis-with-SQL/blob/main/onlinebookstore_db.sql
 
 
 ---
@@ -44,3 +42,4 @@ https://github.com/Vishal132003/Online-Bookstore-Sales-Analysis-with-SQL/blob/ma
 1. Create the database:
    CREATE DATABASE onlinebookstore_db;
    USE onlinebookstore_db;
+
